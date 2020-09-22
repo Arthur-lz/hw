@@ -4,7 +4,7 @@
 
 ---
 * EEPROM
-主板上BIOS ROM芯片大部分都采用EEPROM（Electrically Erasable Programmable ROM，电可擦除可编程ROM）。EEPROM的擦除不需要借助于其它设备，它是以电子信号来修改其内容的，而且是以Byte为最小修改单位，不必将资料全部洗掉才能写入
+主板上BIOS ROM芯片大部分都采用EEPROM（Electrically Erasable Programmable ROM，电可擦除可编程ROM）。EEPROM的擦除不需要借助于其它设备，它是以电子信号来修改其内容的，而且是以Byte为最小修改单位，不必将资料全部洗掉才能写入，是一种掉电后数据不丢失的存储芯片。
 ROM, PROM, EPROM已经被淘汰。
 
 ---
